@@ -1,0 +1,27 @@
+{
+  "name": "visualthinking",
+  "version": "1.0.0",
+  "description": "Code Challenge Visual Partner-Ship. API",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sheepshenko/VisualThinking.git"
+  },
+  "keywords": [
+    "API",
+    "Visual",
+    "Partner-Ship"
+  ],
+  "author": "Fernando Medina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sheepshenko/VisualThinking/issues"
+  },
+  "homepage": "https://github.com/sheepshenko/VisualThinking#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
