@@ -20,8 +20,7 @@ El proyecto esta dividido en 2 partes, la primera que es el servicio que es el e
 
 |Urls| Descripción|ejemplo
 |:---|:---:|:---|
-|localhost:3000/v1/students/|Regresa la lista completa de estudiantes|"name": "Warren",
-    "email": "Todd@visualpartnership.xyz",|
+|localhost:3000/v1/students/|Regresa la lista completa de estudiantes|"name": "Warren","email": "Todd@visualpartnership.xyz",|
 |localhost:3000/v1/certified/|Regresa la lista con los correos de los estudiantes que están certificados|"email": "Todd@visualpartnership.xyz"|
 |localhost:3000/v1/credits/|Regresa la lista de los estudiantes que tengan 500 o mas créditos|"name": "Lucinda"|
 
